@@ -19,9 +19,17 @@
 
 ---
 
+### 2. 给梨加速器
+- **官网**：[https://www.xunyou.com/](https://www.xunyou.com/)
+- **特点**：
+  - 在给梨加速器兑换码处，输入“暗号”，即可解锁终身VIP
+  - 付费级电竞线路，无惧延迟，学生党首选
+- **适用范围**：覆盖大多数主流网络游戏。
+
+![image](https://github.com/mianfeijiasuqituijian/mianfeijiasuqituijian/blob/main/geilijiasu.png)
 ---
 
-### 2. 迅游网游加速器
+### 3. 迅游网游加速器
 - **官网**：[https://www.xunyou.com/](https://www.xunyou.com/)
 - **特点**：
   - 官方认可的《绝地求生》指定加速器。
@@ -32,7 +40,7 @@
 
 ---
 
-### 3. 雷神加速器
+### 4. 雷神加速器
 - **官网**：[https://www.leigod.com/](https://www.leigod.com/)
 - **特点**：
   - 使用金融级内网传输专线，按分钟计费模式更灵活。
@@ -41,7 +49,7 @@
 ![image](https://github.com/user-attachments/assets/3bb296f3-f274-46f3-a8e2-022cc9aa8cc6)
 
 ---
-### 4. 网易UU加速器
+### 5. 网易UU加速器
 - **官网**：[https://uu.163.com/](https://uu.163.com/)
 - **特点**：
   - 独家自研技术，提供“不止快，还很稳”的服务。
@@ -53,7 +61,7 @@
 
 ---
 
-### 5. 小黑盒加速器
+### 6. 小黑盒加速器
 - **官网**：[https://acc.xiaoheihe.cn/pc](https://acc.xiaoheihe.cn/pc)
 - **特点**：
   - 全球专线优化，多平台支持（Steam、Epic、Uplay等）。
@@ -63,7 +71,7 @@
 
 ---
 
-### 6. AK加速器
+### 7. AK加速器
 - **官网**：[https://ak.akspeedy.com/](https://ak.akspeedy.com/)
 - **特点**：
   - 支持全球网游，解决延迟、掉线和丢包问题。
@@ -73,7 +81,7 @@
 
 ---
 
-### 7. GI加速器
+### 8. GI加速器
 - **官网**：[https://www.gijsq.com/](https://www.gijsq.com/)
 - **特点**：
   - 免费使用，无需排队，高效稳定。
@@ -83,7 +91,7 @@
 
 ---
 
-### 8. 流星游戏加速器
+### 9. 流星游戏加速器
 - **官网**：[https://www.liuxing.com/](https://www.liuxing.com/)
 - **特点**：
   - 免费使用，有效降低延迟和掉线概率。
@@ -93,7 +101,7 @@
 
 ---
 
-### 9. biubiu 加速器
+### 10. biubiu 加速器
 - **官网**：[https://www.biubiu001.com/](https://www.biubiu001.com/)
 - **特点**：
    - 免费手游与电竞级PC端网游双向支持。  
